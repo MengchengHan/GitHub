@@ -1,0 +1,1 @@
+ALTER table employees modify sueldo default is null, FECHAINGRESO default is null; 
