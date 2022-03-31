@@ -15,3 +15,4 @@ insert into employees values('22333333','Luis','Lopez',250,0,to_date('01/02/1990
 insert into employees values('22444444','Marta','Perez',350,1,to_date('02/05/1995', 'DD/MM/YYYY'));
 insert into employees values('22555555','Susana','Garcia',400,2,to_date('15/12/2000', 'DD/MM/YYYY'));
 insert into employees values('22666666','Jose Maria','Morales',500,3,to_date('25/08/2005', 'DD/MM/YYYY'));
+-- esto es una prueba
